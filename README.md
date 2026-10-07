@@ -11,7 +11,7 @@ Open to junior **Full-Stack**, **Backend** and **DevOps-related** roles.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [spmt-monitoring](https://github.com/LuckySiagian/spmt-monitoring) | Real-time website monitoring control panel, built during my internship at PT Pelindo Multi Terminal | Go · React · PostgreSQL · WebSocket · Prometheus |
-| Lucky Mart *(in progress, not public yet)* | Grocery ordering platform I'm building for my family's grocery store | Go · Gin · PostgreSQL · React · TypeScript · Docker |
+| [lucky-mart](https://github.com/LuckySiagian/lucky-mart) *(in progress)* | Grocery ordering platform I'm building for my family's grocery store | Go · Gin · PostgreSQL · React · TypeScript · Docker |
 | IoT Coffee Fermentation *(thesis)* | Monitoring and control system for coffee fermentation | ESP32 · MQTT · Node-RED · InfluxDB · Flutter |
 | [ijabu-coffee-shop](https://github.com/LuckySiagian/ijabu-coffee-shop) | E-commerce website for a coffee roastery (academic project) | Laravel · MySQL |
 
