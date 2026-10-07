@@ -21,4 +21,4 @@ Go · JavaScript · React · Vite · Tailwind CSS · Node.js · PostgreSQL · Do
 
 ### Contact
 
-luckysiagian2004@gmail.com · [LinkedIn](https://www.linkedin.com/in/lewi-lucky-siagian-185573319)
+**Portfolio:** [lewi-lucky-siagian.vercel.app](https://lewi-lucky-siagian.vercel.app) · luckysiagian2004@gmail.com · [LinkedIn](https://www.linkedin.com/in/lewi-lucky-siagian-185573319)
